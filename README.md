@@ -1,0 +1,3 @@
+Lab Activity 0: discussion
+
+The main challenges were setting up PATH and fixing flutter doctor warnings. I added C:\flutter\bin to PATH and restarted my terminal so the flutter command worked. Flutter doctor showed two issues: missing Android cmdline-tools and no Visual Studio. I ran my app on Chrome instead, so I did not need Visual Studio. I also had a "Folder In Use" error when renaming my folder, so I created a new folder with the correct name. I used the Flutter documentation and terminal error messages to solve these problems. Next time, I will read the flutter doctor output carefully and close folders before renaming them.
